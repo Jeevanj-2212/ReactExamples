@@ -2,6 +2,7 @@
 import './App.css';
 import About from './component/About';
 import Contact from './component/Contact';
+import Header from './component/Header';
 import Home from './component/Home';
 
 
@@ -12,6 +13,7 @@ function App() {
       <Home name={'Jeevan'} age = {22}/>
       <Contact/>
       <About/>
+     
       
 
     </div>
